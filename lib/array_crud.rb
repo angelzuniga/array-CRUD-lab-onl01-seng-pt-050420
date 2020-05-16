@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  my_kids.push("Kayla")
+  my_family = ["Dominic", "Alyviah", "Kylah", "Savannah"]
+  my_family.push("Kayla")
 end
 
 def add_element_to_start_of_array(array, element)
